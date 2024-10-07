@@ -25,3 +25,12 @@ Bu proje, öğrencilerin yaz okulu ders kayıtlarını yönetmek için geliştir
 - **Güncelleme:** Öğrenci Kayıtlarını düzenleyin.
 - **Silme:** Gereksiz kayıtları kaldırın.
 
+![image](https://github.com/user-attachments/assets/6388ea00-af7c-4b0f-aff7-5bd36fa62be2)
+![image](https://github.com/user-attachments/assets/6fd1eeb5-1cfb-40de-8669-9201564e2f4f)
+![image](https://github.com/user-attachments/assets/2144e44d-3a99-4967-ae2d-b6ee756796b6)
+![image](https://github.com/user-attachments/assets/96a6a711-9807-41ff-b2b8-f806882da6d9)
+
+
+
+
+
