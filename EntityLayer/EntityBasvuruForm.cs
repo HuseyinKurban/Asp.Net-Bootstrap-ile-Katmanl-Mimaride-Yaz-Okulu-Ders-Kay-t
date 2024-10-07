@@ -7,11 +7,14 @@ using System.Threading.Tasks;
 
 namespace EntityLayer
 {
-    internal class EntityBasvuruForm
+    public class EntityBasvuruForm
     {
         private int basvuruid;
         private int basdersid;
         private int basogrid;
+        private string ad;
+        private string soyad;
+        private string dersad;
 
         public int BASVURUID
         {
@@ -28,5 +31,18 @@ namespace EntityLayer
             get { return basogrid; }
             set { basogrid = value; }
         }
+
+        public string OGRAD
+        {
+            get { return ad; }
+            set { ad = value; }
+        }
+
+        public string DERSAD
+        {
+            get { return dersad; }
+            set { dersad = value; }
+        }
+
     }
 }

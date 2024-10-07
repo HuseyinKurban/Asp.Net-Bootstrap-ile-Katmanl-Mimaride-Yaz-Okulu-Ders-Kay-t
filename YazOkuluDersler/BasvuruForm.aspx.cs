@@ -8,16 +8,12 @@ using EntityLayer;
 using DataAccessLayer;
 using BusinessLogicLayer;
 
-
-public partial class OgrenciListesi : System.Web.UI.Page
+public partial class BasvuruForm : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        List<EntityOgrenci> OgrList = BLLOgrenci.BllListele();
-        Repeater1.DataSource = OgrList;
+        List<EntityBasvuruForm> BasvuruList = BLLBasvuruForm.BllBasvuruListele();
+        Repeater1.DataSource = BasvuruList;
         Repeater1.DataBind();
-
-
-
     }
 }

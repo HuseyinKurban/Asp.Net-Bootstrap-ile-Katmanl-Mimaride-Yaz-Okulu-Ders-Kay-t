@@ -19,12 +19,12 @@
                 <a class="navbar-brand" href="#">Yaz Okulu Ders Kayıt</a>
             </div>
             <ul class="nav navbar-nav">
-                <li><a href="#">Ana Sayfa</a></li>
+                <li><a href="OgrenciListesi.aspx">Ana Sayfa</a></li>
                 <li><a href="OgrenciListesi.aspx">Öğrenci Listesi</a></li>
                 <li><a href="Default.aspx">Yeni Kayıt</a></li>
-                <li><a href="#">Dersler</a></li>
-                <li><a href="#">Kontenjanlar</a></li>
-                <li><a href="#">Yardım</a></li>
+                <li><a href="Dersler.aspx">Dersler</a></li>
+                <li><a href="BasvuruForm.aspx">Başvuru Form</a></li>
+                
             </ul>
         </div>
     </nav>
